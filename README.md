@@ -1,4 +1,4 @@
 # laznote
 sticky note program written in lazarus
 
-!(_laznote.png)
+![Alt text](_laznote.png)
